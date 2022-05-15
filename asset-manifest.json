@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Contact_Manager.git/static/css/main.e0916fde.css",
-    "main.js": "/github.io/Contact_Manager.git/static/js/main.a5f22a9b.js",
-    "index.html": "/github.io/Contact_Manager.git/index.html",
-    "main.e0916fde.css.map": "/github.io/Contact_Manager.git/static/css/main.e0916fde.css.map",
-    "main.a5f22a9b.js.map": "/github.io/Contact_Manager.git/static/js/main.a5f22a9b.js.map"
+    "main.css": "/Contact_Manager/static/css/main.e0916fde.css",
+    "main.js": "/Contact_Manager/static/js/main.a5f22a9b.js",
+    "index.html": "/Contact_Manager/index.html",
+    "main.e0916fde.css.map": "/Contact_Manager/static/css/main.e0916fde.css.map",
+    "main.a5f22a9b.js.map": "/Contact_Manager/static/js/main.a5f22a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.e0916fde.css",
